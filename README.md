@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1e4995c2-48d5-4da6-9b31-f50a54a1806d" alt="Screenshot 2024-10-06 221024">
+</p>
 <h1 align="center">Hi 👋, I'm Protiva Bose</h1>
 <h3 align="center">Passionate about app development (Flutter Dart)</h3>
 
