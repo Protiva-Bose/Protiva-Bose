@@ -16,8 +16,8 @@
 - https://www.facebook.com/protiva.bose.50?mibextid=ZbWKwL
 
 <h3 align="left">Connect with me:</h3>
-+ protiva.bose06@gmail.com
-+ protiva.bose@yahoo.com
+<h5 align="left">protiva.bose06@gmail.com</h5>
+<h5 align="left">protiva.bose@yahoo.com</h5>
 <p align="left">
 </p>
 
