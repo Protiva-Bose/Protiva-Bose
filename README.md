@@ -10,7 +10,10 @@
 
 - 🌱 I’m currently learning **Flutter(dart) app development**
 
-- 📫 How to reach me **protiva.bose06@gmail.com**
+- 📫 How to reach me:
+-  **protiva.bose06@gmail.com**
+- **protiva.bose@yahoo.com**
+- https://www.facebook.com/protiva.bose.50?mibextid=ZbWKwL
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
