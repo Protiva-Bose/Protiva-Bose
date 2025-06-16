@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1e4995c2-48d5-4da6-9b31-f50a54a1806d" alt="Screenshot 2024-10-06 221024">
-</p>
+
 <h1 align="center">Hi 👋, I'm Protiva Bose</h1>
 <h3 align="center">Passionate about app development (Flutter Dart)</h3>
 
@@ -11,13 +9,8 @@
 - 🌱 I’m currently learning **Flutter(dart) app development**
 
 - 📫 How to reach me:
--  **protiva.bose06@gmail.com**
-- **protiva.bose@yahoo.com**
-- https://www.facebook.com/protiva.bose.50?mibextid=ZbWKwL
-
 <h3 align="left">Connect with me:</h3>
 <h5 align="left">protiva.bose06@gmail.com</h5>
-<h5 align="left">protiva.bose@yahoo.com</h5>
 <p align="left">
 </p>
 
