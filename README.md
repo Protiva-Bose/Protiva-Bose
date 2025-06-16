@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Flutter(dart) app development**
 
 - 📫 How to reach me:
-<h3 align="left">Connect with me:</h3>
+
 <h5 align="left">protiva.bose06@gmail.com</h5>
 <p align="left">
 </p>
